@@ -9,7 +9,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=120;height=50%">
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=150;height=50%">
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
@@ -19,7 +19,6 @@
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="Journal">{{ link.Journal }}</div>
-      <div class="Cite">{{ link.Cite }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
