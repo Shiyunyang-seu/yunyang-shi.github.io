@@ -5,6 +5,7 @@ layout: homepage
 ## About Me
 
  I am a Ph.D. graduate from the School of Transportation at Southeast University, where I obtained my doctoral degree in September 2025. My research focuses on the integration of artificial intelligence and transportation systems. I warmly welcome interested colleagues to engage in academic exchanges and collaborative discussions.
+ Over ten SCI/SSCI-indexed papers have been published, six of which were authored as the first author, in reputable journals including COMMTR, Transportation Research Part A, and IEEE ITSM, etc.
 
 ## Research Interests
 
