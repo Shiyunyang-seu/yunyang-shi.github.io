@@ -3,8 +3,8 @@
 <h4 style="margin:0 10px 0;">Individual honorary title</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a <autocolor>Technical expert of Jiangsu Province 2023</autocolor></a></li>
-  <li><a <autocolor>Recommended poster of WTC 2024</autocolor></a></li>
+  <li><autocolor>Technical expert of Jiangsu Province 2023</autocolor></li>
+  <li><autocolor>Recommended poster of WTC 2024</autocolor></li>
 </ul>
 
 
