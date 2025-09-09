@@ -7,8 +7,7 @@ email: yunyang-shi@seu.edu.cn
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: AI + Transportation, Agent-based simulation, LLM + Transportation
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+description: I am a Ph.D. graduate from the School of Transportation at Southeast University, where I obtained my doctoral degree in September 2025. My research focuses on the integration of artificial intelligence and transportation systems. I warmly welcome interested colleagues to engage in academic exchanges and collaborative discussions.
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -18,7 +17,7 @@ github_link: https://github.com/Shiyunyang-seu
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/profile.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
