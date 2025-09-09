@@ -3,7 +3,7 @@ main:
   - title: Traffic simulation optimization considering driving styles
     authors: <strong>Yunyang Shi</strong>, Tong Wu, Tan Guo, Jinbiao Huo, Ziyuan Gu, Yifan Dai, Zhiyuan Liu* (*Corresponding authors)
     Journal: Communications in Transportation Research (Q1)
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: ./assets/files/Shi-2025-Traffic simulation optimization considering driving styles.pdf
     code: https://github.com/Shiyunyang-seu/BOG-method-for-traffic-simulation
     image: ./assets/img/Intro_BOG_commtr.png
     cites: Shi, Y., Wu, T., Guo, T., Huo, J., Gu, Z., Dai, Y., & Liu, Z. (2025). Traffic simulation optimization considering driving styles. Communications in Transportation Research, 5, 100181. https://doi.org/10.1016/j.commtr.2025.100181.
