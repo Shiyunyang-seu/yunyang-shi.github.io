@@ -18,4 +18,8 @@ layout: homepage
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/Award.md %}
+
+{% include_relative _includes/Education.md %}
+
 {% include_relative _includes/services.md %}
