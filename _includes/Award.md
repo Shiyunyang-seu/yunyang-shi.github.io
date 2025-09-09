@@ -13,7 +13,7 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>1st-Place, China Intelligent Transportation Association Science and Technology Award, 2024</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>2nd-Place, China Highway and Transportation Society Science and Technology Award, 2023</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>3nd-Place, China Intelligent Transportation Association Science and Technology Award</autocolor></a></li>
+  <li><a href="https://www.springer.com/journal/11263"><autocolor>3nd-Place, China Intelligent Transportation Association Science and Technology Award, 2022</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Intelligent transportation and data analysis competition award</h4>
